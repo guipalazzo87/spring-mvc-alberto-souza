@@ -14,6 +14,6 @@ Deploy the war file in a servlet container like Tomcat or Jetty.
 
 ## Usage
 
-After deploying the war file, access the URL http://localhost:8080/spring-mvc-alberto-souza/
+After building the war file, deploy in a Servlet Container and access the URL http://localhost:8080/springmvc/
 
 You should see a simple form with a few fields to fill in. After filling in the form and clicking on the "Enviar" button, you should see a message with the values you filled in the form.
